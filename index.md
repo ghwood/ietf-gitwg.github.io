@@ -158,7 +158,7 @@ More details about the add, commit, push workflow [can be found here](https://gu
 
 ### Document Submission
 
-When an updated version of the document needs to be uploaded to the datatracker, we need to compile a version for submission. Details for this using the i-d-template toolchain [are described here](https://github.com/martinthomson/i-d-template/blob/master/doc/SUBMITTING.md). For completeness, we summarize the manual approach here. 
+When an updated version of the document needs to be uploaded to the IETF Datatracker, we need to compile a version for submission. Details for this using the i-d-template toolchain [are described here](https://github.com/martinthomson/i-d-template/blob/master/doc/SUBMITTING.md). For completeness, we summarize the manual approach here. 
 
 Assume we're building a document entitled "draft-ietf-unicorn-protocol.md". We begin by making the version for submission:
 
@@ -203,4 +203,4 @@ Beyond using labels to help triage and discuss issues, this mode may also involv
 
 # Additional Resources
 
-- [Mike Bishop's IETF 104 Tutorial](https://datatracker.ietf.org/meeting/104/materials/slides-104-edu-sessg-git-github-and-markdown-for-internet-drafts-00)
+- Mike Bishop's IETF 104 Tutorial: [(slides)](https://datatracker.ietf.org/meeting/104/materials/slides-104-edu-sessg-git-github-and-markdown-for-internet-drafts-00) [(video)](https://youtu.be/xyw_mUM1p-g?t=120)
